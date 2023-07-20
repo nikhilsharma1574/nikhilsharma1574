@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilsharma1574
 - 👀 I’m interested in Software Developement
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning new tech stacks.
 - 💞️ I’m looking to collaborate on Software Devp.
 - 📫 How to reach me at nikhilsharma1574@gmail.com
 
